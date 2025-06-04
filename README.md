@@ -6,13 +6,8 @@
 
 <h3 align="center">CompSci || Cybersecurity</h3>
 
-<br/>
-
 <div align="center">
- 
   Collecting **XP**
-
-
  </div>
  
 <div align="center"> 
