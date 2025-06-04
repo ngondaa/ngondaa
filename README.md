@@ -9,6 +9,7 @@
 <div align="center">
   Collecting **XP**
  </div>
+ <br/>
  
 <div align="center"> 
   <a href="mailto:ngondaamn@gmail.com">
@@ -37,7 +38,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ngondaa/ngondaa/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
 <hr/>
