@@ -27,7 +27,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=laravel,html,css,javascript" /> <br>
      <img src="https://skillicons.dev/icons?i=linux,vscode,github,figma" /> <br>
-    <img src="https://skillicons.dev/icons?i=flutter,python,mysql," /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,python,mysql,vue" /><br>
 </div>
 
 <br/>
